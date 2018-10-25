@@ -1,1 +1,32 @@
-module.exports = [{ "name": "Ahmed", "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg", "scores": ["5", "1", "4", "4", "5", "1", "2", "5", "4", "1"] }, { "name": "Jacob Deming", "photo": "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg", "scores": ["4", "2", "5", "1", "3", "2", "2", "1", "3", "2"] }, { "name": "Jeremiah Scanlon", "photo": "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460", "scores": ["5", "2", "2", "2", "4", "1", "3", "2", "5", "5"] }, { "name": "Louis T. Delia", "photo": "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg", "scores": ["3", "3", "4", "2", "2", "1", "3", "2", "2", "3"] }, { "name": "Lou Ritter", "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg", "scores": ["4", "3", "4", "1", "5", "2", "5", "3", "1", "4"] }, { "name": "Jordan Biason", "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg", "scores": ["4", "4", "2", "3", "2", "2", "3", "2", "4", "5"] }]
+module.exports = [
+    { 
+        name: "Magneto", 
+        photo: "https://vignette.wikia.nocookie.net/xmenmovies/images/3/37/Erik2.jpg/revision/latest/scale-to-width-down/185?cb=20120109095740", 
+        scores: ["5", "1", "4", "4", "5", "1", "2", "5", "4", "1"] 
+    }, 
+    { 
+        name: "Wolverine", 
+        photo: "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Wolverine_AKA_James_%22Logan%22_Howlett.png/170px-Wolverine_AKA_James_%22Logan%22_Howlett.png", 
+        scores: ["4", "2", "5", "1", "3", "2", "2", "1", "3", "2"] 
+    }, 
+    { 
+        name: "Professor X", 
+        photo: "https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58d/045/ec9/58d045ec9e12d387604707.jpg", 
+        scores: ["5", "2", "2", "2", "4", "1", "3", "2", "5", "5"] 
+    }, 
+    { 
+        name: "Cyclops", 
+        photo: "https://qph.fs.quoracdn.net/main-qimg-8d98760fed3dabbe3bafb822872c98df", 
+        scores: ["3", "3", "4", "2", "2", "1", "3", "2", "2", "3"] 
+    }, 
+    { 
+        name: "Beast", 
+        photo: "https://vignette.wikia.nocookie.net/jadensadventures/images/1/14/X-Men-Movies-Beast-Comparison-Hoult-Grammer.jpg/revision/latest?cb=20140409001401", 
+        scores: ["4", "3", "4", "1", "5", "2", "5", "3", "1", "4"] 
+    }, 
+    { 
+        name: "Jean Grey", 
+        photo: "https://vignette.wikia.nocookie.net/xmenmovies/images/d/d9/Xc_%282%29.jpg/revision/latest?cb=20140723225150", 
+        scores: ["4", "4", "2", "3", "2", "2", "3", "2", "4", "5"] 
+    }
+]
