@@ -57,12 +57,12 @@ function submit(event) {
                     displayModal(bestMatch);
                 }
                 // console.log("done printing");
-                $.post("/api/employees", userData)
-                    .then(function (res) {
-                        if (res.success) {
-                            // alert("Post was successful!");
-                        }
-                    })
+                // $.post("/api/employees", userData)
+                //     .then(function (res) {
+                //         if (res.success) {
+                //             // alert("Post was successful!");
+                //         }
+                //     })
             })
         
     }
